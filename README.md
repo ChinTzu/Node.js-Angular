@@ -24,6 +24,10 @@ The second part is an Angular 10 single page application that manages all the us
    run command 'npm install' for '/server' and '/client' to install dependencies. 
 
 # Application Walkthrough
+Open a command prompt, enter the following command for project "/server" and "/client" \
+\server> node index \
+\client> ng serve
+
 Open the web browers with http://localhost:4200/ 
 
 Fill in the form then click SUBMIT to register a new user\
