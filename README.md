@@ -24,6 +24,9 @@ The second part is an Angular 10 single page application that manages all the us
    run command 'npm install' for '/server' and '/client' to install dependencies. 
 
 # Application Walkthrough
-Open the web browers with http://localhost:4200/
+Open the web browers with http://localhost:4200/ 
+
+Fill in the form then click SUBMIT to register a new user\
+Use  delete and edit buttons to delete and edit the user details.
 
 ![image](https://user-images.githubusercontent.com/16623796/86535172-f213fe80-bf10-11ea-9834-efdd7609cf1f.png)
