@@ -1,0 +1,31 @@
+<table class="table">
+  <tr>
+    <th scope="col">Name</th>
+    <th scope="col">Email</th>
+    <th scope="col">Phone</th>
+    <th scope="col">Edit</th>
+    <th scope="col">Delete</th>
+  </tr>
+
+  <tbody>
+    <tr *ngFor="let data of service.freelancerList">
+      <td (click)="show(data)">{{ data.name }}</td>
+      <td (click)="show(data)">{{ data.email }}</td>
+      <td (click)="show(data)">{{ data.phone }}</td>
+      <td>
+        <button type="button" class="btn btn-info" (click)="onEdit(data)">
+          <i class="fas fa-user-edit"></i>
+        </button>
+      </td>
+      <td>
+        <button
+          type="button"
+          class="btn btn-danger"
+          (click)="onDelete(data._id)"
+        >
+          <i class="fa fa-trash" aria-hidden="true"></i>
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
