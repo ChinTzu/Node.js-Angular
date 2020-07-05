@@ -20,21 +20,10 @@ The second part is an Angular 10 single page application that manages all the us
    Go on [official mongoDb website](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/).
    Follow the instruction to install mongoDb on your local machine
    
-3. After getting the code execute the following commands for each project,/
+3. After getting the code execute the following commands for each project\
    run command 'npm install' for '/server' and '/client' to install dependencies. 
 
 # Application Walkthrough
 Open the web browers with http://localhost:4200/
 
 ![image](https://user-images.githubusercontent.com/16623796/86535172-f213fe80-bf10-11ea-9834-efdd7609cf1f.png)
-
-
-
-
-
-
-
-
-
-
-   
