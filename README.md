@@ -2,7 +2,7 @@
 A web application to store and display the data of freelancers.
 
 # Technologies
-Node.js, ,express.js, angular 10, MongoDb
+Node.js, express.js, angular 10, MongoDb
 
 # Project Organization
 The solution is organized in two parts, the first one is the server side that consists of a collection of  web APIs that access mongoDb through mongoose.
