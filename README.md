@@ -1,4 +1,4 @@
-# Project Title
+# Project Description
 A web application to store and display the data of freelancers.
 
 # Technologies
@@ -11,10 +11,10 @@ The second part is an Angular 10 single page application that manages all the us
 # Getting Started
 1. Install nodejs\
    Go on [official Node.js website](https://nodejs.org/) and download the installer.
-   After the installation is completed, open a command prompt (or PowerShell), and enter the following: 
-   node –v
-   npm –v
-   The system should display the Node.js and npm version installed on your system..
+   After the installation is completed, open a command prompt (or PowerShell), and enter the following command\
+   node –v\
+   npm –v\
+   The system should display the Node.js and npm version installed on your system.
    
 2. Install mongoDB\
    Go on [official mongoDb website](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/).
