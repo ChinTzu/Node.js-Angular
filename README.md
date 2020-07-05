@@ -25,6 +25,8 @@ The second part is an Angular 10 single page application that manages all the us
 # Application Walkthrough
 Open the web browers with http://localhost:4200/
 
+![image](https://user-images.githubusercontent.com/16623796/86535172-f213fe80-bf10-11ea-9834-efdd7609cf1f.png)
+
 
 
 
